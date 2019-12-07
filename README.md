@@ -1,5 +1,5 @@
 <h2><b>Requisitos</b></h2>
-    Executar primeiramente os passos do Backend
+    Executar primeiramente os passos do Backend<br>
     JAVA 8
     Node 12
     Intellij ou Eclipse
