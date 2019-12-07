@@ -4,9 +4,9 @@
 
 <h2><b>Requisitos</b></h2>
     
-    <b>JAVA 8
+    JAVA 8
     Node 12
-    <b>Intellij</b> ou Eclipse
+    Intellij ou Eclipse
     
     
       
