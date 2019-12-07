@@ -1,8 +1,8 @@
 <h2><b>Requisitos</b></h2>
     Executar primeiramente os passos do Backend<br>
-    JAVA 8
-    Node 12
-    Intellij ou Eclipse
+    JAVA 8<br>
+    Node 12<br>
+    Intellij ou Eclipse<br>
 
 <h2><b>Passos para rodar o projeto</b></h2>
 
