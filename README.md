@@ -2,7 +2,7 @@
 2- Abrir Terminal dentro da pasta do projeto 
 3- E
 
-<h2><b>Requisitos</b><h2>
+<h2><b>Requisitos</b></h2>
     
     <b>JAVA 8
     Node 12
